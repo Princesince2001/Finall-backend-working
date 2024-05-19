@@ -1,0 +1,39 @@
+2024-05-19 10:42:39.903 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-19 10:42:39.953 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 10:42:39.955 +05:30 [INF] Hosting environment: Development
+2024-05-19 10:42:39.957 +05:30 [INF] Content root path: D:\Karnisha backend\LXP\LXP.Api
+2024-05-19 10:42:43.038 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-19 10:42:44.089 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1060.0901ms
+2024-05-19 10:42:44.098 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-19 10:42:44.099 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 10:42:44.112 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 13.5111ms
+2024-05-19 10:42:44.200 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 101.603ms
+2024-05-19 10:42:44.429 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-19 10:42:44.647 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 218.2114ms
+2024-05-19 10:44:07.841 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/course/topic/3cf22229-722b-4413-9879-dcdc51ff990e/materialtype/0649d37a-b2fa-461e-b129-df454a9cce7f - null null
+2024-05-19 10:44:07.861 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-19 10:44:07.868 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.GetAllMaterialDetailsByTopicAndMaterialType (LXP.Api)'
+2024-05-19 10:44:07.899 +05:30 [INF] Route matched with {action = "GetAllMaterialDetailsByTopicAndMaterialType", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[LXP.Common.ViewModels.MaterialListViewModel]] GetAllMaterialDetailsByTopicAndMaterialType(System.String, System.String) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-19 10:44:10.905 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[LXP.Common.ViewModels.MaterialListViewModel, LXP.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 10:44:10.940 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.GetAllMaterialDetailsByTopicAndMaterialType (LXP.Api) in 3031.108ms
+2024-05-19 10:44:10.945 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.GetAllMaterialDetailsByTopicAndMaterialType (LXP.Api)'
+2024-05-19 10:44:10.950 +05:30 [INF] HTTP GET /lxp/course/topic/3cf22229-722b-4413-9879-dcdc51ff990e/materialtype/0649d37a-b2fa-461e-b129-df454a9cce7f responded 200 in 3090.8993 ms
+2024-05-19 10:44:10.965 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/course/topic/3cf22229-722b-4413-9879-dcdc51ff990e/materialtype/0649d37a-b2fa-461e-b129-df454a9cce7f - 200 null application/json; charset=utf-8 3123.599ms
+2024-05-19 10:44:25.917 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/wwwroot/CourseMaterial/70935b49-7f39-4b6a-a07a-eaf9d48c69ec_Click_to_view_you__Security_Awareness_Certificate.pdf - null null
+2024-05-19 10:44:25.944 +05:30 [INF] The file /70935b49-7f39-4b6a-a07a-eaf9d48c69ec_Click_to_view_you__Security_Awareness_Certificate.pdf was not modified
+2024-05-19 10:44:25.949 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/wwwroot/CourseMaterial/70935b49-7f39-4b6a-a07a-eaf9d48c69ec_Click_to_view_you__Security_Awareness_Certificate.pdf - 304 null application/pdf 32.2728ms
+2024-05-19 10:44:26.117 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/favicon.ico - null null
+2024-05-19 10:44:26.122 +05:30 [INF] HTTP GET /favicon.ico responded 404 in 0.8530 ms
+2024-05-19 10:44:26.125 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/favicon.ico - 404 0 null 7.622ms
+2024-05-19 10:44:26.130 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/favicon.ico, Response status code: 404
+2024-05-19 11:00:44.374 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/course/topic/3cf22229-722b-4413-9879-dcdc51ff990e/materialtype/0649d37a-b2fa-461e-b129-df454a9cce7f - null null
+2024-05-19 11:00:44.379 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.GetAllMaterialDetailsByTopicAndMaterialType (LXP.Api)'
+2024-05-19 11:00:44.381 +05:30 [INF] Route matched with {action = "GetAllMaterialDetailsByTopicAndMaterialType", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[LXP.Common.ViewModels.MaterialListViewModel]] GetAllMaterialDetailsByTopicAndMaterialType(System.String, System.String) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-19 11:00:44.471 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[LXP.Common.ViewModels.MaterialListViewModel, LXP.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 11:00:44.474 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.GetAllMaterialDetailsByTopicAndMaterialType (LXP.Api) in 89.4633ms
+2024-05-19 11:00:44.476 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.GetAllMaterialDetailsByTopicAndMaterialType (LXP.Api)'
+2024-05-19 11:00:44.477 +05:30 [INF] HTTP GET /lxp/course/topic/3cf22229-722b-4413-9879-dcdc51ff990e/materialtype/0649d37a-b2fa-461e-b129-df454a9cce7f responded 200 in 98.2731 ms
+2024-05-19 11:00:44.480 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/course/topic/3cf22229-722b-4413-9879-dcdc51ff990e/materialtype/0649d37a-b2fa-461e-b129-df454a9cce7f - 200 null application/json; charset=utf-8 107.1086ms
+2024-05-19 11:24:30.884 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/wwwroot/CourseMaterial/818a05c5-1b49-42f1-a3f3-d70104df0305_Manual test report - Sheet1.pdf - null null
+2024-05-19 11:24:30.924 +05:30 [INF] Sending file. Request path: '/818a05c5-1b49-42f1-a3f3-d70104df0305_Manual test report - Sheet1.pdf'. Physical path: 'D:\Karnisha backend\LXP\LXP.Api\wwwroot\CourseMaterial\818a05c5-1b49-42f1-a3f3-d70104df0305_Manual test report - Sheet1.pdf'
+2024-05-19 11:24:30.927 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/wwwroot/CourseMaterial/818a05c5-1b49-42f1-a3f3-d70104df0305_Manual test report - Sheet1.pdf - 200 47137 application/pdf 50.1ms
