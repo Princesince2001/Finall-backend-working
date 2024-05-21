@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Karnisha backend\\LXP\\LXP.Common\\LXP.Common.csproj": {}
+    "D:\\RubanBackendFinal\\LXP\\LXP.Common\\LXP.Common.csproj": {}
   },
   "projects": {
-    "D:\\Karnisha backend\\LXP\\LXP.Common\\LXP.Common.csproj": {
+    "D:\\RubanBackendFinal\\LXP\\LXP.Common\\LXP.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Karnisha backend\\LXP\\LXP.Common\\LXP.Common.csproj",
+        "projectUniqueName": "D:\\RubanBackendFinal\\LXP\\LXP.Common\\LXP.Common.csproj",
         "projectName": "LXP.Common",
-        "projectPath": "D:\\Karnisha backend\\LXP\\LXP.Common\\LXP.Common.csproj",
-        "packagesPath": "C:\\Users\\rubanchinnarathin.m\\.nuget\\packages\\",
-        "outputPath": "D:\\Karnisha backend\\LXP\\LXP.Common\\obj\\",
+        "projectPath": "D:\\RubanBackendFinal\\LXP\\LXP.Common\\LXP.Common.csproj",
+        "packagesPath": "C:\\Users\\keerthivasan.k\\.nuget\\packages\\",
+        "outputPath": "D:\\RubanBackendFinal\\LXP\\LXP.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rubanchinnarathin.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\keerthivasan.k\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

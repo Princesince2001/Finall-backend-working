@@ -1,11 +1,11 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\06dfcfd9-7069-466f-9baa-15b2907a921b_Cloud Assessment.pdf))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\1f760d72-3c30-4d78-aa9a-063367d6845b_FRST-121_Forerstry_notes.pdf))">
       <SourceType>Package</SourceType>
       <SourceId>LXP.Api</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/LXP.Api</BasePath>
-      <RelativePath>CourseMaterial/06dfcfd9-7069-466f-9baa-15b2907a921b_Cloud Assessment.pdf</RelativePath>
+      <RelativePath>CourseMaterial/1f760d72-3c30-4d78-aa9a-063367d6845b_FRST-121_Forerstry_notes.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -14,14 +14,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\06dfcfd9-7069-466f-9baa-15b2907a921b_Cloud Assessment.pdf))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\1f760d72-3c30-4d78-aa9a-063367d6845b_FRST-121_Forerstry_notes.pdf))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\70935b49-7f39-4b6a-a07a-eaf9d48c69ec_Click_to_view_you__Security_Awareness_Certificate.pdf))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\8fd74765-950d-47aa-8660-db417a2f4e99_LMS Wireframe.pdf))">
       <SourceType>Package</SourceType>
       <SourceId>LXP.Api</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/LXP.Api</BasePath>
-      <RelativePath>CourseMaterial/70935b49-7f39-4b6a-a07a-eaf9d48c69ec_Click_to_view_you__Security_Awareness_Certificate.pdf</RelativePath>
+      <RelativePath>CourseMaterial/8fd74765-950d-47aa-8660-db417a2f4e99_LMS Wireframe.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -30,14 +30,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\70935b49-7f39-4b6a-a07a-eaf9d48c69ec_Click_to_view_you__Security_Awareness_Certificate.pdf))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\8fd74765-950d-47aa-8660-db417a2f4e99_LMS Wireframe.pdf))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\796698e0-86b2-4d8f-84a4-4f958f6de5fc_Bloodbank Management System Overall Document.pdf))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\a7203f51-4bf1-4855-8b22-0be3afa35d18_Selenium Test cases.pdf))">
       <SourceType>Package</SourceType>
       <SourceId>LXP.Api</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/LXP.Api</BasePath>
-      <RelativePath>CourseMaterial/796698e0-86b2-4d8f-84a4-4f958f6de5fc_Bloodbank Management System Overall Document.pdf</RelativePath>
+      <RelativePath>CourseMaterial/a7203f51-4bf1-4855-8b22-0be3afa35d18_Selenium Test cases.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -46,14 +46,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\796698e0-86b2-4d8f-84a4-4f958f6de5fc_Bloodbank Management System Overall Document.pdf))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\a7203f51-4bf1-4855-8b22-0be3afa35d18_Selenium Test cases.pdf))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\7dca8ed4-ad1e-44c4-82df-8dc0301b8a02_02 - Security Awareness Assessment - 2024_ Attempt review.pdf))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\e778eb3c-fec3-4b60-afb3-f632ceb0ebfe_Click_to_view_you__Security_Awareness_Certificate.pdf))">
       <SourceType>Package</SourceType>
       <SourceId>LXP.Api</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/LXP.Api</BasePath>
-      <RelativePath>CourseMaterial/7dca8ed4-ad1e-44c4-82df-8dc0301b8a02_02 - Security Awareness Assessment - 2024_ Attempt review.pdf</RelativePath>
+      <RelativePath>CourseMaterial/e778eb3c-fec3-4b60-afb3-f632ceb0ebfe_Click_to_view_you__Security_Awareness_Certificate.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -62,55 +62,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\7dca8ed4-ad1e-44c4-82df-8dc0301b8a02_02 - Security Awareness Assessment - 2024_ Attempt review.pdf))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\7f3545ce-ab73-4992-9092-1470c9db3dc3_lxp 1.sql))">
-      <SourceType>Package</SourceType>
-      <SourceId>LXP.Api</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LXP.Api</BasePath>
-      <RelativePath>CourseMaterial/7f3545ce-ab73-4992-9092-1470c9db3dc3_lxp 1.sql</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\7f3545ce-ab73-4992-9092-1470c9db3dc3_lxp 1.sql))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\818a05c5-1b49-42f1-a3f3-d70104df0305_Manual test report - Sheet1.pdf))">
-      <SourceType>Package</SourceType>
-      <SourceId>LXP.Api</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LXP.Api</BasePath>
-      <RelativePath>CourseMaterial/818a05c5-1b49-42f1-a3f3-d70104df0305_Manual test report - Sheet1.pdf</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\818a05c5-1b49-42f1-a3f3-d70104df0305_Manual test report - Sheet1.pdf))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\ca4f42a0-5dd7-4dde-8a87-793394432568_Azure_Learning.pptx))">
-      <SourceType>Package</SourceType>
-      <SourceId>LXP.Api</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LXP.Api</BasePath>
-      <RelativePath>CourseMaterial/ca4f42a0-5dd7-4dde-8a87-793394432568_Azure_Learning.pptx</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\ca4f42a0-5dd7-4dde-8a87-793394432568_Azure_Learning.pptx))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseMaterial\e778eb3c-fec3-4b60-afb3-f632ceb0ebfe_Click_to_view_you__Security_Awareness_Certificate.pdf))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\CourseThumbnailImages\0225d78b-dbd7-408d-aa96-e477f2d4e551_1.png))">
       <SourceType>Package</SourceType>

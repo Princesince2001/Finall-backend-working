@@ -175,3 +175,20 @@ D:\Karnisha backend\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.pdb
 D:\Karnisha backend\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.genruntimeconfig.cache
 D:\Karnisha backend\LXP\LXP.Data\obj\Debug\net8.0\ref\LXP.Data.dll
 D:\Karnisha backend\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.sourcelink.json
+D:\RubanBackendFinal\LXP\LXP.Data\bin\Debug\net8.0\LXP.Data.deps.json
+D:\RubanBackendFinal\LXP\LXP.Data\bin\Debug\net8.0\LXP.Data.runtimeconfig.json
+D:\RubanBackendFinal\LXP\LXP.Data\bin\Debug\net8.0\LXP.Data.dll
+D:\RubanBackendFinal\LXP\LXP.Data\bin\Debug\net8.0\LXP.Data.pdb
+D:\RubanBackendFinal\LXP\LXP.Data\bin\Debug\net8.0\LXP.Common.dll
+D:\RubanBackendFinal\LXP\LXP.Data\bin\Debug\net8.0\LXP.Common.pdb
+D:\RubanBackendFinal\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.csproj.AssemblyReference.cache
+D:\RubanBackendFinal\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\RubanBackendFinal\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.AssemblyInfoInputs.cache
+D:\RubanBackendFinal\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.AssemblyInfo.cs
+D:\RubanBackendFinal\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.csproj.CoreCompileInputs.cache
+D:\RubanBackendFinal\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.csproj.CopyComplete
+D:\RubanBackendFinal\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.dll
+D:\RubanBackendFinal\LXP\LXP.Data\obj\Debug\net8.0\refint\LXP.Data.dll
+D:\RubanBackendFinal\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.pdb
+D:\RubanBackendFinal\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.genruntimeconfig.cache
+D:\RubanBackendFinal\LXP\LXP.Data\obj\Debug\net8.0\ref\LXP.Data.dll

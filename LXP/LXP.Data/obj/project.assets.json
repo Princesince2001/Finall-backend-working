@@ -4703,23 +4703,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rubanchinnarathin.m\\.nuget\\packages\\": {},
+    "C:\\Users\\keerthivasan.k\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Karnisha backend\\LXP\\LXP.Data\\LXP.Data.csproj",
+      "projectUniqueName": "D:\\RubanBackendFinal\\LXP\\LXP.Data\\LXP.Data.csproj",
       "projectName": "LXP.Data",
-      "projectPath": "D:\\Karnisha backend\\LXP\\LXP.Data\\LXP.Data.csproj",
-      "packagesPath": "C:\\Users\\rubanchinnarathin.m\\.nuget\\packages\\",
-      "outputPath": "D:\\Karnisha backend\\LXP\\LXP.Data\\obj\\",
+      "projectPath": "D:\\RubanBackendFinal\\LXP\\LXP.Data\\LXP.Data.csproj",
+      "packagesPath": "C:\\Users\\keerthivasan.k\\.nuget\\packages\\",
+      "outputPath": "D:\\RubanBackendFinal\\LXP\\LXP.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rubanchinnarathin.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\keerthivasan.k\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4728,14 +4728,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Karnisha backend\\LXP\\LXP.Common\\LXP.Common.csproj": {
-              "projectPath": "D:\\Karnisha backend\\LXP\\LXP.Common\\LXP.Common.csproj"
+            "D:\\RubanBackendFinal\\LXP\\LXP.Common\\LXP.Common.csproj": {
+              "projectPath": "D:\\RubanBackendFinal\\LXP\\LXP.Common\\LXP.Common.csproj"
             }
           }
         }

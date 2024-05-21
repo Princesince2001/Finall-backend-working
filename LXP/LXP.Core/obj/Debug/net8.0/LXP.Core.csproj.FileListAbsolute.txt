@@ -195,3 +195,22 @@ D:\Karnisha backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
 D:\Karnisha backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
 D:\Karnisha backend\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
 D:\Karnisha backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\RubanBackendFinal\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\RubanBackendFinal\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\RubanBackendFinal\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\RubanBackendFinal\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\RubanBackendFinal\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\RubanBackendFinal\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\RubanBackendFinal\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\RubanBackendFinal\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\RubanBackendFinal\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\RubanBackendFinal\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\RubanBackendFinal\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\RubanBackendFinal\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\RubanBackendFinal\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\RubanBackendFinal\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\RubanBackendFinal\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\RubanBackendFinal\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\RubanBackendFinal\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\RubanBackendFinal\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\RubanBackendFinal\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
